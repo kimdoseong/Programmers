@@ -7,3 +7,4 @@ ADD_COMPILE_DEFINITIONS(TEST)
 
 add_subdirectory(Level_1)
 add_subdirectory(Level_2)
+add_subdirectory(Level_3)
